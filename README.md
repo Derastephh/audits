@@ -12,4 +12,5 @@
 | [Mighty Finance](https://cantina.xyz/competitions/616d8bb4-16ce-4ca9-9ce9-5b99d6e146ef) | Cantina | DeFi, Concentrated Liquidity Market Making (CLMM) | #11/629 | [6H, 2L, 1 Info](https://cantina.xyz/code/616d8bb4-16ce-4ca9-9ce9-5b99d6e146ef/findings?created_by=derastephh&status=new,duplicate,disputed,confirmed,acknowledged,fixed) |
 | [Superform](https://cantina.xyz/competitions/ba62fa4e-f933-4eec-b9ac-868325f4a694) | Cantina | DeFi | #⏳ | [1M](##) |
 | [Jigsaw Finance](https://cantina.xyz/competitions/7a40c849-0b35-4128-b084-d9a83fd533ea) | Cantina | DeFi | #⏳ | [1H, 1 Info](##) |
+| [Metropolis](https://cantina.xyz/competitions/076935b1-2706-48c6-bf0a-b3656aa24194) | Cantina | DeFi | -/- | [1 Info](##) |
 | [Inheritable Smart Contract](https://codehawks.cyfrin.io/c/2025-03-inheritable-smart-contract-wallet) | CodeHawks | First Flight | #55/145 | [3H, 1L](https://github.com/Derastephh/audits/blob/main/CodeHawks/md/Inheritable-Smart-contract-security%20review.md) |
