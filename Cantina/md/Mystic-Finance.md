@@ -1,4 +1,44 @@
-# [H1] Missing Collateral Tracking in `updateLeverageBundle` Can Cause Accounting Drift, Locking User Funds or Break Close Position
+# Mystic Finance - Findings Report
+
+Prepared by: Nwebor Stephen
+
+Auditors:
+
+- [Stephen](https://github.com/Derastephh)
+- [Greg](https://x.com/0xitsgreg)
+
+# Table of contents
+<details>
+
+<summary>See table</summary>
+
+- ## [Contest Summary](#contest-summary)
+- ## [Results Summary](#results-summary)
+- ## High Risk Findings
+    - ### [H-01. Missing Collateral Tracking in `updateLeverageBundle` Can Cause Accounting Drift, Locking User Funds or Break Close Position](#H-01)
+
+</details>
+</br>
+
+# <a id='contest-summary'></a>Contest Summary
+
+### Sponsor: Mystic Finance
+
+### Dates: May 13th, 2025 - May 18th, 2025
+
+[See more contest details here](https://cantina.xyz/code/c160af78-28f8-47f7-9926-889b3864c6d8/findings?created_by=greg,derastephh&status=duplicate,disputed,rejected,confirmed,acknowledged,fixed)
+
+# <a id='results-summary'></a>Results Summary
+
+### Number of findings:
+- High: 4
+- Medium: 1
+- Low: 0
+
+
+# High Risk Findings
+
+## <a id='H-01'></a>H-01. Missing Collateral Tracking in `updateLeverageBundle` Can Cause Accounting Drift, Locking User Funds or Break Close Position
 
 ## Summary
 The `MysticLeverageBundler::updateLeverageBundle` function forgets to update internal collateral tracking when leverage is adjusted. Over time, this causes a mismatch between what the contract thinks a user has and what is actually onchain. This leads to broken position closes or stuck collateral that the user cannot recover.
