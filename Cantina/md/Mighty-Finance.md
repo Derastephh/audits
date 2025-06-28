@@ -97,6 +97,9 @@ This is very likely to happen when `startTime` is backdated because:
 
 ### Proof of Code (PoC)
 
+<details>
+<summary>Code</summary>
+
 Create a test folder under contracts, then create a `drain.t.sol` file under the test folder and finally paste the below code in the file. Run PoC with the cmd `forge test --mt test_BackdateDrain -vv`
 
 ```solidity
@@ -242,6 +245,7 @@ contract LendingPoolTest is Test {
 }
 }
 ```
+</details>
 
 ### Recommendation
 - Take a snapshot of totalStaked at the actual `startTime` for fair backdated distribution or prevent `StakingRewards::setReward` from using a `startTime` in the past.
