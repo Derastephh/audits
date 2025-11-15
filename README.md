@@ -1,8 +1,6 @@
 # Smart Contract Audits and Findings by Stephen
 
-- [Cantina profile](https://cantina.xyz/u/derastephh)
-- [Sherlock profile](##)
-- [CodeHawks profile](##)
+- [Audit Contest profile](https://audits.sherlock.xyz/watson/derastephh)
 
 ## 🏆 Competitive Audit Highlights
 
