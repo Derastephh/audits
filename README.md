@@ -32,9 +32,12 @@
 ## 🏆 Audit Contests Highlights
 
 | Contest | Platform | Category | Ranking 🏅 | Findings 🔍 |
+|--------|----------|----------|------------|--------------|
+| [-](##) | - | - | - | [-](##) |
 
 
 ## 🏆 Private Audits
 
 | Protocol | Platform | Category | Findings 🔍 |
-| [Internal Fair Labs](##) | Zealynx Security | Vault | [1C, 2H, 2M](##) |
+|--------|----------|----------|--------------|
+| [Internal Fair Labs](##) | Zealynx Security | Vault | [1M](##) |
