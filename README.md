@@ -3,6 +3,12 @@
 
 # Solidity Smart Contract Audits and Findings by Stephen
 
+## 🏆 Private Audits
+
+| Protocol | Platform | Category | Findings 🔍 |
+|--------|----------|----------|--------------|
+| [Nexalo](##) | Zealynx Security | Lottery and Staking | [1C, 2H, 2M](##) |
+
 ## 🏆 Audit Contests Highlights
 
 | Contest | Platform | Category | Ranking 🏅 | Findings 🔍 |
@@ -19,26 +25,19 @@
 | [Inheritable Smart Contract](https://codehawks.cyfrin.io/c/2025-03-inheritable-smart-contract-wallet) | CodeHawks | First Flight | #55/145 | [3H, 1L](https://github.com/Derastephh/audits/blob/main/CodeHawks/md/Inheritable-Smart-contract-security%20review.md) |
 
 
-## 🏆 Private Audits
-
-| Protocol | Platform | Category | Findings 🔍 |
-|--------|----------|----------|--------------|
-| [Nexalo](##) | Zealynx Security | Lottery and Staking | [1C, 2H, 2M](##) |
-
-
 
 
 # Rust Smart Contract Audits and Findings by Stephen
-
-## 🏆 Audit Contests Highlights
-
-| Contest | Platform | Category | Ranking 🏅 | Findings 🔍 |
-|--------|----------|----------|------------|--------------|
-| [-](##) | - | - | - | [-](##) |
-
 
 ## 🏆 Private Audits
 
 | Protocol | Platform | Category | Findings 🔍 |
 |--------|----------|----------|--------------|
 | [Internal Fair Labs](##) | Zealynx Security | Vault | [1M](##) |
+
+
+## 🏆 Audit Contests Highlights
+
+| Contest | Platform | Category | Ranking 🏅 | Findings 🔍 |
+|--------|----------|----------|------------|--------------|
+| [-](##) | - | - | - | [-](##) |
