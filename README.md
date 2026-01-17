@@ -1,4 +1,4 @@
-# Smart Contract Audits and Findings by Stephen
+# Solidity Smart Contract Audits and Findings by Stephen
 
 - [Audit Contest profile](https://audits.sherlock.xyz/watson/derastephh)
 
@@ -23,3 +23,18 @@
 | Protocol | Platform | Category | Findings 🔍 |
 |--------|----------|----------|--------------|
 | [Nexalo](##) | Zealynx Security | Lottery and Staking | [1C, 2H, 2M](##) |
+
+
+
+
+# Rust Smart Contract Audits and Findings by Stephen
+
+## 🏆 Audit Contests Highlights
+
+| Contest | Platform | Category | Ranking 🏅 | Findings 🔍 |
+
+
+## 🏆 Private Audits
+
+| Protocol | Platform | Category | Findings 🔍 |
+| [Internal Fair Labs](##) | Zealynx Security | Vault | [1C, 2H, 2M](##) |
