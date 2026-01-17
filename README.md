@@ -1,6 +1,7 @@
-# Solidity Smart Contract Audits and Findings by Stephen
-
 - [Audit Contest profile](https://audits.sherlock.xyz/watson/derastephh)
+
+
+# Solidity Smart Contract Audits and Findings by Stephen
 
 ## 🏆 Audit Contests Highlights
 
