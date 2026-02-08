@@ -1,4 +1,5 @@
-- [Audit Contest profile](https://audits.sherlock.xyz/watson/derastephh)
+- [Sherlock Contest profile](https://audits.sherlock.xyz/watson/derastephh)
+- [Dual Guards Contest profile](##)
 
 
 # Solidity Smart Contract Audits and Findings by Stephen
@@ -20,8 +21,7 @@
 | [Metropolis](https://cantina.xyz/competitions/076935b1-2706-48c6-bf0a-b3656aa24194) | Cantina | DeFi | -/- | [1 Info](##) |
 | [GTE perps and launchpad](##) | CodeArena | Launchpad and Perps | - | [1M](https://code4rena.com/audits/2025-08-gte-perps-and-launchpad/submissions/S-904) |
 | [Super DCA](#) | Sherlock | Staking | - | [1H](https://audits.sherlock.xyz/contests/1171) |
-| [Monolith](##) | Sherlock | Lending and Borrowing | - | [1H](##) |
-| [Alignerz](##) | DualGuards | Reward System | - | [6H](##) |
+| [Alignerz](##) | DualGuards | Reward System | - | [6H](https://github.com/dualguard/2025-11-judging-alignerz/tree/main/results/valid) |
 | [Inheritable Smart Contract](https://codehawks.cyfrin.io/c/2025-03-inheritable-smart-contract-wallet) | CodeHawks | First Flight | #55/145 | [3H, 1L](https://github.com/Derastephh/audits/blob/main/CodeHawks/md/Inheritable-Smart-contract-security%20review.md) |
 
 
