@@ -1,3 +1,5 @@
+[Contest details](https://cantina.xyz/code/ba62fa4e-f933-4eec-b9ac-868325f4a694/overview)
+
 # [M-01] Swap1InchHook Strips Function Selector and Breaks Slippage Limit Causing DoS and Price Risk
 
 ## Summary
