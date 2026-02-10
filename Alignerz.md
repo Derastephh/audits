@@ -1,0 +1,6 @@
+- [Incorrect token comparison in A26ZDividendDistributor::getUnclaimedAmounts causes skipped NFTs and dividend distribution DoS](https://github.com/dualguard/2025-11-judging-alignerz/blob/main/results/valid/highs/H-12/High-000252-Derastephh.md)
+- [FeesManager::calculateFeeAndNewAmountForOneTVS Always Reverts Due to Unallocated newAmounts Array](https://github.com/dualguard/2025-11-judging-alignerz/blob/main/results/valid/highs/H-2/High-000259-Derastephh.md)
+- [AlignerzVesting::_computeSplitArrays Reverts Due to Unallocated Dynamic Arrays Inside Memory Struct](https://github.com/dualguard/2025-11-judging-alignerz/blob/main/results/valid/highs/H-3/High-000258-Derastephh.md)
+- [FeesManager::calculateFeeAndNewAmountForOneTVS Computes Incorrect Values Due to Cumulative Fee Deduction](https://github.com/dualguard/2025-11-judging-alignerz/blob/main/results/valid/highs/H-5/High-000255-Derastephh.md)
+- [Infinite Loop in Feesmanager::calculateFeeAndNewAmountForOneTVS Causes DOS in AlignerzVesting::splitTvs and AlignerzVesting::mergeTvs](https://github.com/dualguard/2025-11-judging-alignerz/blob/main/results/valid/highs/H-7/High-000257-Derastephh.md)
+- [Infinite Loop DoS in A26ZDividendDistributor::getUnclaimedAmounts Due to Missing Index Increment](https://github.com/dualguard/2025-11-judging-alignerz/blob/main/results/valid/highs/H-8/High-000254-Derastephh.md)
