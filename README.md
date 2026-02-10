@@ -1,5 +1,5 @@
 - [Sherlock profile (includes Code4rena & Cantina submissions)](https://audits.sherlock.xyz/watson/derastephh)
-- [Dual Guards Contest profile](https://github.com/dualguard/2025-11-judging-alignerz/tree/main/results/valid/highs)
+- [Dual Guards Contest profile](https://github.com/Derastephh/audits/blob/main/Alignerz.md)
 
 
 # Solidity Smart Contract Audits and Findings by Stephen
@@ -20,9 +20,9 @@
 | [Superform](https://cantina.xyz/competitions/ba62fa4e-f933-4eec-b9ac-868325f4a694) | Cantina | DeFi | Solidity | [1M, 1L](https://github.com/Derastephh/audits/blob/main/Cantina/md/Superform.md) |
 | [Jigsaw Finance](https://cantina.xyz/competitions/7a40c849-0b35-4128-b084-d9a83fd533ea) | Cantina | DeFi | Solidity | [1H, 1 Info](##) |
 | [Metropolis](https://cantina.xyz/competitions/076935b1-2706-48c6-bf0a-b3656aa24194) | Cantina | DeFi | Solidity | [1 Info](##) |
-| [GTE perps and launchpad](##) | CodeArena | Launchpad and Perps | Solidity | [1M](https://code4rena.com/audits/2025-08-gte-perps-and-launchpad/submissions/S-904) |
-| [Super DCA](#) | Sherlock | Staking | Solidity | [1H](https://audits.sherlock.xyz/contests/1171) |
-| [Alignerz](##) | DualGuards | Reward System | Solidity | [6H](https://github.com/dualguard/2025-11-judging-alignerz/tree/main/results/valid) |
+| [GTE perps and launchpad](https://code4rena.com/audits/2025-08-gte-perps-and-launchpad) | CodeArena | Launchpad and Perps | Solidity | [1M](https://code4rena.com/audits/2025-08-gte-perps-and-launchpad/submissions/S-904) |
+| [Super DCA](https://audits.sherlock.xyz/contests/1171) | Sherlock | Staking | Solidity | [1H](https://audits.sherlock.xyz/contests/1171) |
+| [Alignerz](##) | DualGuards | Reward System | Solidity | [6H](https://github.com/Derastephh/audits/blob/main/Alignerz.md) |
 | [Inheritable Smart Contract](https://codehawks.cyfrin.io/c/2025-03-inheritable-smart-contract-wallet) | CodeHawks | First Flight | Solidity | [3H, 1L](https://github.com/Derastephh/audits/blob/main/CodeHawks/md/Inheritable-Smart-contract-security%20review.md) |
 
 
