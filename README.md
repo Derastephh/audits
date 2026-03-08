@@ -1,8 +1,29 @@
-## About stephen
+
+
+## About me
 
 I'm an independent Web3 Security Researcher competing on Cantina, Sherlock, C4, Codehawks and Dual Guards. Skilled in Rust, Solidity. I specialize in identifying vulnerabilities in blockchain protocols.
 
 For collabs or security audits, reach out on X [@derastephh](https://x.com/derastephh).
+
+## Contests highlights
+
+| Metric | Value |
+| --- | --- |
+| Total bugs found | 23 |
+| Highs found | 17  |
+| Mediums found | 3 |
+| Lows found | 3 |
+
+## Private engagements highlights
+
+| Metric | Value |
+| --- | --- |
+| Total bugs found | 12 |
+| Criticals found | 2 |
+| Highs found | 2 |
+| Mediums found | 3 |
+| Lows found | 5 |
 
 
 
@@ -50,3 +71,9 @@ For collabs or security audits, reach out on X [@derastephh](https://x.com/deras
 |--------|----------|----------|----------|--------------|
 | [Nexalo](##) | Zealynx Security | Lottery and Staking | Solidity | [1C, 2H, 2M](##) |
 | [Internal Fair Labs](##) | Zealynx Security | Vault | Rust | [1M](##)
+| [Yada Coin](##) | Zealynx Security | Bridging, Launchpad | Solidity | [1C, 5L, 3 Info](##)
+
+## Notes
+
+- Private reports are shared with client permission only.
+- Public contest summaries include direct links to platform findings.
