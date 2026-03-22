@@ -2,7 +2,7 @@
 
 ## About me
 
-I'm a Web3 Security Researcher competing on Cantina, Sherlock, C4, Codehawks and Dual Guards. Skilled in Rust, Solidity. I specialize in identifying vulnerabilities in blockchain protocols.
+I’m a Web3 Security Researcher actively contributing with Zealynx Security and competing on Cantina, Sherlock, C4, Codehawks, and Dual Guards. Skilled in Rust and Solidity. I specialize in identifying vulnerabilities in blockchain protocols.
 
 For collabs or security audits, reach out on X [@derastephh](https://x.com/derastephh).
 
