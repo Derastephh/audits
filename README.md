@@ -19,11 +19,11 @@ For collabs or security audits, reach out on X [@derastephh](https://x.com/deras
 
 | Metric | Value |
 | --- | --- |
-| Total bugs found | 12 |
-| Criticals found | 2 |
-| Highs found | 2 |
-| Mediums found | 3 |
-| Lows found | 5 |
+| Total bugs found | 53 |
+| Criticals found | 5 |
+| Highs found | 8 |
+| Mediums found | 15 |
+| Lows found | 25 |
 
 
 
@@ -69,9 +69,9 @@ For collabs or security audits, reach out on X [@derastephh](https://x.com/deras
 
 | Protocol | Platform | Category | Language | Findings 🔍 |
 |--------|----------|----------|----------|--------------|
-| [Nexalo](##) | Zealynx Security | Lottery and Staking | Solidity | [1C, 2H, 2M](##) |
-| [Internal Fair Labs](##) | Zealynx Security | Vault | Rust | [1M](##)
-| [Yada Coin](##) | Zealynx Security | Bridging, Launchpad | Solidity | [1C, 5L, 3 Info](##)
+| [Nexalo](##) | Zealynx Security | Lottery and Staking | Solidity | [3C, 5H, 10M, 5L](##) |
+| [Internal Fair Labs](##) | Zealynx Security | Vault | Rust | [1H, 1M, 3L](##)
+| [Yada Coin](##) | Zealynx Security | Bridging, Launchpad | Solidity | [3C, 2H, 4M, 16L, 3 Info](##)
 
 ## Notes
 
