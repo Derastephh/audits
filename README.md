@@ -71,7 +71,7 @@ For collabs or security audits, reach out on X [@derastephh](https://x.com/deras
 |--------|----------|----------|----------|--------------|
 | [Nexalo](##) | Zealynx Security | Lottery and Staking | Solidity | [3C, 5H, 10M, 5L](##) |
 | [Internal Fair Labs](##) | Zealynx Security | Vault | Rust | [1H, 1M, 3L](##)
-| [Yada Coin](##) | Zealynx Security | Bridging, Launchpad | Solidity | [3C, 2H, 4M, 16L, 3 Info](##)
+| [Yada Coin](##) | Zealynx Security | Bridging, Launchpad | Solidity | [3C, 2H, 4M, 16L, 3 Info](https://github.com/Derastephh/audits/blob/main/YadaCoin_Zealynx_Audit_Report.pdf)
 
 ## Notes
 
