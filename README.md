@@ -19,11 +19,11 @@ For collabs or security audits, reach out on X [@derastephh](https://x.com/deras
 
 | Metric | Value |
 | --- | --- |
-| Total bugs found | 53 |
+| Total bugs found | 61 |
 | Criticals found | 5 |
-| Highs found | 8 |
+| Highs found | 15 |
 | Mediums found | 15 |
-| Lows found | 25 |
+| Lows found | 26 |
 
 
 
@@ -72,6 +72,7 @@ For collabs or security audits, reach out on X [@derastephh](https://x.com/deras
 | [Nexalo](##) | Zealynx Security | Lottery and Staking | Solidity | [3C, 5H, 10M, 5L](https://github.com/Derastephh/audits/blob/main/NEXALO_Zealynx_Audit_Report.pdf) |
 | [Internal Fair Labs](##) | Zealynx Security | Vault | Rust | [1H, 1M, 3L](##)
 | [Yada Coin](##) | Zealynx Security | Bridging, Launchpad | Solidity | [3C, 2H, 4M, 16L, 3 Info](https://github.com/Derastephh/audits/blob/main/YadaCoin_Zealynx_Audit_Report.pdf)
+| [StakeLi Games](##) | GillSec | Gaming, Staking | Solidity | [7H, 1L](##)
 
 ## Notes
 
