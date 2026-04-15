@@ -72,7 +72,7 @@ For collabs or security audits, reach out on X [@derastephh](https://x.com/deras
 | [Nexalo](##) | Zealynx Security | Lottery and Staking | Solidity | [3C, 5H, 10M, 5L](https://github.com/Derastephh/audits/blob/main/NEXALO_Zealynx_Audit_Report.pdf) |
 | [Internal Fair Labs](##) | Zealynx Security | Vault | Rust | [1H, 1M, 3L](##)
 | [Yada Coin](##) | Zealynx Security | Bridging, Launchpad | Solidity | [3C, 2H, 4M, 16L, 3 Info](https://github.com/Derastephh/audits/blob/main/YadaCoin_Zealynx_Audit_Report.pdf)
-| [StakeLi Games](##) | GillSec | Gaming, Staking | Solidity | [7H, 1L](##)
+| [StakeLi Games](##) | GillSec | Gaming, Staking | Solidity | [7H, 1L](https://github.com/Derastephh/audits/blob/main/GillSec_Stake_Li_Report-2.pdf)
 
 ## Notes
 
