@@ -2,7 +2,7 @@
 
 ## About me
 
-I’m a Web3 Security Researcher actively contributing with Zealynx Security and competing on Cantina, Sherlock, C4, Codehawks, and Dual Guards. Skilled in Rust and Solidity. I specialize in identifying vulnerabilities in blockchain protocols.
+I’m a Web3 Security Researcher working with GillSec audits and contributing with Zealynx Security, while competing on competing on Cantina, Sherlock, C4, Codehawks, and Dual Guards. Skilled in Rust and Solidity. I specialize in identifying vulnerabilities in blockchain protocols.
 
 For collabs or security audits, reach out on X [@derastephh](https://x.com/derastephh).
 
@@ -19,11 +19,11 @@ For collabs or security audits, reach out on X [@derastephh](https://x.com/deras
 
 | Metric | Value |
 | --- | --- |
-| Total bugs found | 61 |
+| Total bugs found | 63 |
 | Criticals found | 5 |
 | Highs found | 15 |
-| Mediums found | 15 |
-| Lows found | 26 |
+| Mediums found | 16 |
+| Lows found | 27 |
 
 
 
@@ -73,6 +73,7 @@ For collabs or security audits, reach out on X [@derastephh](https://x.com/deras
 | [Internal Fair Labs](##) | Zealynx Security | Vault | Rust | [1H, 1M, 3L](##)
 | [Yada Coin](##) | Zealynx Security | Bridging, Launchpad | Solidity | [3C, 2H, 4M, 16L, 3 Info](https://github.com/Derastephh/audits/blob/main/YadaCoin_Zealynx_Audit_Report.pdf)
 | [StakeLi Games](##) | GillSec | Gaming, Staking | Solidity | [7H, 1L](https://github.com/Derastephh/audits/blob/main/GillSec_Stake_Li_Report-2.pdf)
+| [Volume Dynamic Fee V4](##) | GillSec | Amm | Solidity | [1M, 1L](##)
 
 ## Notes
 
