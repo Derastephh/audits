@@ -2,7 +2,7 @@
 
 ## About me
 
-I’m a Web3 Security Researcher working with GillSec audits and contributing with Zealynx Security, while competing on competing on Cantina, Sherlock, C4, Codehawks, and Dual Guards. Skilled in Rust and Solidity. I specialize in identifying vulnerabilities in blockchain protocols.
+I read smart contract code so protocols don't have to learn the hard way.
 
 For collabs or security audits, reach out on Telegram [@derastephh](https://t.me/derastephh) or X [@derastephh](https://x.com/derastephh).
 
