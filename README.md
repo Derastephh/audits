@@ -23,7 +23,7 @@ For collabs or security audits, reach out on Telegram [@derastephh](https://t.me
 | Criticals found | 5 |
 | Highs found | 15 |
 | Mediums found | 16 |
-| Lows found | 27 |
+| Lows found | 32 |
 
 
 
@@ -75,8 +75,8 @@ For collabs or security audits, reach out on Telegram [@derastephh](https://t.me
 | [StakeLi Games](##) | GillSec | Gaming, Staking | Solidity | [7H, 1L](https://github.com/Derastephh/audits/blob/main/GillSec_Stake_Li_Report-2.pdf)
 | [Volume Dynamic Fee V4](##) | GillSec | Amm | Solidity | [1M, 1L](https://github.com/Derastephh/audits/blob/main/GillSec_VolumeDynamicFee_Final_Proper_V4.pdf)
 | [HyperLend](##) | Kann Audits | Leveraged Lending | Solidity | [5L](https://github.com/Kann-Audits/Kann-Audits/blob/main/reports/pdf-format/HyperLend-security-review-2026-05-26.pdf)
-| [Need4Audit](##) | Kann Audits | Bounty Payments | Solidity | [-/-](##)
-| [Castr.fun](https://castr.fun/) | Kann Audits | Token Launchpad | Solidity | [-/-](##)
+| [Need4Audit](##) | Kann Audits | Bounty Payments | Solidity | [pdf soon](##)
+| [Castr.fun](https://castr.fun/) | Kann Audits | Token Launchpad | Solidity | [pdf soon](##)
 
 ## Notes
 
