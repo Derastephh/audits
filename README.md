@@ -19,7 +19,7 @@ For collabs or security audits, reach out on Telegram [@derastephh](https://t.me
 
 | Metric | Value |
 | --- | --- |
-| Total bugs found | 63 |
+| Total bugs found | 68 |
 | Criticals found | 5 |
 | Highs found | 15 |
 | Mediums found | 16 |
